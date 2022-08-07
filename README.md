@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Tan1602"><img src="https://api.daily.dev/devcards/ac1c5205ed8647549b63f5fc2bcbffca.png?r=dot" width="250" align="right" align="top" alt="Phạm Minh Tấn's Dev Card"/></a>
+<a href="https://app.daily.dev/Tan1602"><img src="https://api.daily.dev/devcards/ac1c5205ed8647549b63f5fc2bcbffca.png?r=dot" width="400" align="right" align="top" alt="Phạm Minh Tấn's Dev Card"/></a>
 - 👋 Hi, I’m @PhamMinhTan1122
 - 👀 I’m a newbie programmer 
 - 🌱 I’m currently learning Roblox Studio
