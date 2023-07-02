@@ -1,7 +1,6 @@
-<a href="https://app.daily.dev/Tan1602"><img src="https://github.com/PhamMinhTan1122/PhamMinhTan1122/blob/main/devcard.svg" width="400" align="right" alt="Phạm Minh Tấn's Dev Card"/></a>
 - 👋 Hi, I’m @PhamMinhTan1122
 - 👀 I’m a newbie programmer 
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python, Svelte and C++
 - 🎈 Code AI, Framework and UI/Ux..
 <!---
 PhamMinhTan1122/PhamMinhTan1122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
