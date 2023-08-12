@@ -1,6 +1,6 @@
 # 💫 About Me:
-# Hi, I’m @PhamMinhTan1122 👋<br><br>I'm a newbie programmer who is currently learning Python, Svelte and C++. I'm also interested in AI, framework and UI/Ux. 🚀<br><br>## Projects 💻<br><br>I'm currently working on a few projects, including:<br><br>* A Python script that analyzes stock market data 📈<br>* A Svelte website that showcases my work 🎨<br>* A C++ program that solves a mathematical problem 🔢<br><br>## Skills 🛠️<br><br>I'm proficient in the following programming languages:<br><br>* Python 🐍<br>* Svelte 🔥<br>* C++ 💯<br><br>I'm also familiar with the following technologies:<br><br>* AI 🧠<br>* Framework 🌐<br>* UI/Ux 🖥️<br><br>## Education 🎓<br><br>I'm currently a student at the University of California, Berkeley, where I'm studying computer science. 🐻<br><br>## Contact 📧<br><br>If you're interested in working with me, please reach out to me on my website or through email.<br><br>## Thanks for visiting my profile! 😊
-
+# Hi, I’m @PhamMinhTan1122 👋
+I'm a newbie programmer who is currently learning Python, Svelte and C++. I'm also interested in AI, framework and UI/Ux. 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masterminhtan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19806726) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@masterminhtan) 
