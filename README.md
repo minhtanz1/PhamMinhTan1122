@@ -21,9 +21,6 @@ I'm a newbie programmer who is currently learning Python, Svelte and C++. I'm al
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PhamMinhTan1122&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=PhamMinhTan1122&icon=0&color=3)](https://visitcount.itsvg.in)
 
