@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Hi, I’m @PhamMinhTan1122 👋
 I'm a newbie programmer who is currently learning Python, Svelte and C++. I'm also interested in AI, framework and UI/Ux. 🚀
 
